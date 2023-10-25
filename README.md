@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio  de prueba del Módulo 2 
+Este proyecto es una prueba fr como crear un repositorio y clonarlo desde github a mi computadora.
